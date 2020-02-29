@@ -1,1 +1,6 @@
 .nfs*
+*.jugdata/
+*.out
+0dB/
+6dB/
+min6dB/
