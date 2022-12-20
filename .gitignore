@@ -1,5 +1,7 @@
 .nfs*
 *.jugdata/
+/.tmp/
+/logs/
 *.out
 0dB/
 6dB/
